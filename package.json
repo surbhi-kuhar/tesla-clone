@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://surbhikuhar.github.io/teslaclone",
+  "homepage": "http://surbhi-kuhar.github.io/tesla-clone",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
